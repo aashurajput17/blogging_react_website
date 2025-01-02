@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 # firstly clone this project by using
-git-clone 
+git-clone https://github.com/aashurajput17/blogging_react_website/tree/main
+
+# now intall npm packegs by using
+npm install
+
 ### `npm start`
 
 Runs the app in the development mode.\

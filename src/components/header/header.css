@@ -1,0 +1,31 @@
+.header{
+    margin-top: 60px;
+}
+
+.headerTitles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lora',serif;
+    color : black;
+}
+.headerImg{
+    width: 100%;
+    height: 700px;
+    margin-top: 8px;
+    object-fit: cover;
+}
+
+.headerTitlesSmall{
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 10%;
+    font-size: 30px;
+}
+.headerTitlesLarge{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: absolute;
+    top: 14%;
+    font-size: 100px;
+
+}

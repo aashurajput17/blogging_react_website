@@ -1,0 +1,57 @@
+.register{
+    height: calc(100vh - 5px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    justify-content: center;
+    background:url("../../../public/loginpagebg.jpg");
+    background-size: cover;
+
+}
+
+.registerTitle{
+    font-size: 50px;
+}
+
+.registerForm{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.registerForm >label{
+    margin: 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.registerInput{
+    padding: 10px;
+    background-color: white;
+    border: none;
+}
+
+.registerButton{
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: teal;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.registerLoginButton{
+    margin-top: 20px;
+    border: none;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+    padding-left:78px;
+    padding-right: 78px;
+    border-radius: 10px;
+    background-color: teal;
+    color: white;
+    cursor: pointer;
+}
